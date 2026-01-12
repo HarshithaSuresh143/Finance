@@ -1,0 +1,25 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite
+*.db
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
